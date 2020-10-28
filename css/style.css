@@ -423,14 +423,16 @@
   display: none;
 }
 .pop .outline {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
-  background-color: #fff;
+  /* background-color: #fff; */
   text-align: center;
   height: 100%;
 }
 .pop img {
+  width: 50%;
 }
+
 .close span {
   display: block;
   height: 1px;
@@ -688,7 +690,7 @@
     background: #f4f4f5;
     height: 5px;
     margin-bottom: 1rem;
-    width: 450px;
+    width: 362px;
     margin-left: 50px;
     margin-right: 50px;
   }
@@ -766,5 +768,13 @@
   }
   #section4 .box .box_hover h3 {
     display: none;
+  }
+  .pop .outline {
+    width: 100%;
+    /* margin: 0 auto; */
+    /* background-color: #fff; */
+    margin-top: 50%;
+    text-align: center;
+    height: 100%;
   }
 }
