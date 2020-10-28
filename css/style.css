@@ -765,10 +765,6 @@
     padding: 217px 38px;
   }
   #section4 .box .box_hover h3 {
-    color: #fff;
-    font-size: 21px;
-    font-weight: 700;
-    margin-bottom: 10px;
-    margin-top: 80px;
+    display: none;
   }
 }
