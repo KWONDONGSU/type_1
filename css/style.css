@@ -621,6 +621,12 @@
     position: relative;
     right: 39px;
   }
+  #section1 .name {
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: center;
+    padding-bottom: 70px;
+  }
   #section1 .name h2 {
     font-size: 2.5rem;
     color: #fff;
@@ -632,6 +638,16 @@
   #section1 .txt_box img {
     width: 50%;
     margin-left: 1%;
+  }
+  #section2 .sec2_name {
+    margin-left: 215px;
+    margin-bottom: 53px;
+  }
+  #section2 .sec2_right {
+    float: right;
+    padding-top: 50px;
+    margin-right: 6px;
+    text-align: center;
   }
   #section2 .sec2_left {
     margin-left: -120px;
@@ -646,6 +662,22 @@
     font-weight: 800;
     margin-bottom: 20px;
   }
+  #section2 .skill h2 {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #333;
+    margin-left: -218px;
+    float: left;
+  }
+  #section2 .skill span {
+    display: block;
+    float: left;
+    width: 200px;
+    height: 2px;
+    background-color: #e2cee9;
+    margin-top: 15px;
+    margin-left: -90px;
+  }
   #section2 .skill_box {
     margin-top: 50px;
     float: left;
@@ -659,5 +691,84 @@
     width: 450px;
     margin-left: 50px;
     margin-right: 50px;
+  }
+  #section3 h4 {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #ddd;
+    margin-bottom: 50px;
+    margin-left: 15px;
+  }
+  #section3 .sunkist_right {
+    float: right;
+    width: 40%;
+    padding-right: 50px;
+    margin-top: 10px;
+    margin-right: 203px;
+  }
+  #section3 .sunkist_right p {
+    margin-left: 100px;
+    width: 175px;
+  }
+  #section3 .btn {
+    display: block;
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #cbaad6;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 40px;
+    font-weight: 800;
+    margin-left: 96px;
+  }
+  #section3 .starskin {
+    padding-top: 35px;
+    clear: both;
+  }
+  #section3 .starskin_right img {
+    width: 90%;
+    margin-bottom: 28px;
+  }
+  #section3 .instax_left img {
+    width: 70%;
+    margin-left: 15px;
+  }
+  #section3 .instax_right {
+    float: right;
+    padding: 0 0;
+    margin-right: 74px;
+  }
+  #section3 .instax .btn {
+    display: block;
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #cbaad6;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 40px;
+    font-weight: 800;
+    margin-left: -3px;
+  }
+  #section3 .ezdance_right img {
+    position: relative;
+    top: -666px;
+    width: 52%;
+  }
+  #section3 .ezdance_left {
+    float: right;
+    padding: 217px 38px;
+  }
+  #section4 .box .box_hover h3 {
+    color: #fff;
+    font-size: 21px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 80px;
   }
 }
