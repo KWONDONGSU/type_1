@@ -769,6 +769,9 @@
   #section4 .box .box_hover h3 {
     display: none;
   }
+  .pop img {
+    width: 50%;
+  }
   .pop .outline {
     width: 100%;
     /* margin: 0 auto; */
